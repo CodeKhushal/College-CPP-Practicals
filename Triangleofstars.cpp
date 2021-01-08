@@ -1,3 +1,4 @@
+//Program to print triangle of stars.
 #include<iostream>
 using namespace std;
 int main()
