@@ -1,4 +1,4 @@
-//Program to print whether a number is prime or not. Later printing all prime numbers less than 100.
+//Program to print whether a number is prime or not(Using function). Later printing all prime numbers less than 100.
 #include<iostream>
 using namespace std;
 bool prime(int);      //function definition
