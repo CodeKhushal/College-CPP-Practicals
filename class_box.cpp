@@ -169,7 +169,7 @@ int main()
                         }
                         case 5:
                         {
-                                cout<<"Surface area of box A: ";
+                                cout<<"Surface area of box B: ";
                                 B.surfacearea();
                                 break;
                         }
@@ -181,7 +181,7 @@ int main()
                         }
                         case 7:
                         {
-                                cout<<"Total edge length of box A: ";
+                                cout<<"Total edge length of box B: ";
                                 B.totaledgelength();
                                 break;
                         }
